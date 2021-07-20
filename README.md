@@ -1,4 +1,4 @@
-# cass.run
+# short.run
 
 My own lil URL shortener
 
